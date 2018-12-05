@@ -1,2 +1,2 @@
 # Mountain
-This is a test for git.
+This is the beginning of my java.
